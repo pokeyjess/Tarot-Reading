@@ -1,11 +1,13 @@
 
 # Tarot card reading
 
+<img width="1142" alt="Screen Shot 2020-09-21 at 7 22 20 PM" src="https://user-images.githubusercontent.com/65363804/93832344-6d00d180-fc43-11ea-918e-e44cca098afd.png">
+
 ## Let the computer pick your cards!
 
 This simple program uses JavaScript to generate a random number, which is then used to select a card from an array.
 
-<img width="1142" alt="Screen Shot 2020-09-21 at 7 22 20 PM" src="https://user-images.githubusercontent.com/65363804/93832344-6d00d180-fc43-11ea-918e-e44cca098afd.png"><img width="1139" alt="Screen Shot 2020-09-21 at 7 23 33 PM" src="https://user-images.githubusercontent.com/65363804/93832431-be10c580-fc43-11ea-8966-c513c155ddcf.png">
+<img width="1139" alt="Screen Shot 2020-09-21 at 7 23 33 PM" src="https://user-images.githubusercontent.com/65363804/93832431-be10c580-fc43-11ea-8966-c513c155ddcf.png">
 
 On the main page, the idea is to select one card, which would be the user's Tarot for the day. A second page offers a more detailed reading, in the format of a "Celtic Cross," a popular layout.
 
