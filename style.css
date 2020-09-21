@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-image: url("images/background.jpeg");
+}
+#game {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#cardPic {
+  border: 2px solid black;
+}
+.mainCard {
+  height: 300px;
+  width: 180px;
+  margin: 20px;
+}
+.card {
+  height: 200px;
+  width: 120px;
+  border: 2px solid black;
+  margin: 10px;
+}
+#mainBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#leftBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#rightBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+}
+#topBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#centerBox {
+  display: flex;
+  flex-direction: row;
+}
+#bottomBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#card2 {
+  transform: rotate(150deg);
+}

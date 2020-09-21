@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Tarot</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/4457f4abf2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <h1>Welcome to your Tarot reading</h1>
+    <div id="buttons">
+      <a href="/"><i class="fas fa-home"></i></a>
+      &nbsp &nbsp &nbsp
+      <a onClick="window.location.reload();"><i class="fas fa-redo"></i></a>
+    </div>
+    <div id="mainBox">
+      <div id="leftBox">
+        <div id="topBox">
+          <img
+            src="images/default.jpeg"
+            id="card6"
+            class="card"
+            alt="Tarot Card"
+          />
+          <button id="button6">6: Outcome</button>
+        </div>
+        <div id="centerBox">
+          <div>
+            <img
+              src="images/default.jpeg"
+              id="card4"
+              class="card"
+              alt="Tarot Card"
+            />
+            <br />
+            <button id="button4">4: Recent past</button>
+          </div>
+          <div>
+            <img
+              src="images/default.jpeg"
+              id="card2"
+              class="card"
+              alt="Tarot Card"
+            />
+            <br />
+            <button id="button2">2: Challenge</button>
+          </div>
+          <div>
+            <img
+              src="images/default.jpeg"
+              id="card1"
+              class="card"
+              alt="Tarot Card"
+            />
+            <br />
+            <button id="button1">1: Present</button>
+          </div>
+          <div>
+            <img
+              src="images/default.jpeg"
+              id="card5"
+              class="card"
+              alt="Tarot Card"
+            />
+            <br />
+            <button id="button5">5: Future</button>
+          </div>
+        </div>
+        <div id="bottomBox">
+          <img
+            src="images/default.jpeg"
+            id="card3"
+            class="card"
+            alt="Tarot Card"
+          />
+          <button id="button3">3: Past</button>
+        </div>
+      </div>
+
+      <div id="rightBox">
+        <img
+          src="images/default.jpeg"
+          id="card10"
+          class="card"
+          alt="Tarot Card"
+        />
+        <button id="button10">10: Final outcome</button>
+
+        <img
+          src="images/default.jpeg"
+          id="card9"
+          class="card"
+          alt="Tarot Card"
+        />
+        <button id="button9">9: Hopes</button>
+
+        <img
+          src="images/default.jpeg"
+          id="card8"
+          class="card"
+          alt="Tarot Card"
+        />
+        <button id="button8">8: External</button>
+
+        <img
+          src="images/default.jpeg"
+          id="card7"
+          class="card"
+          alt="Tarot Card"
+        />
+        <button id="button7">7: Internal</button>
+      </div>
+    </div>
+
+    <script src="array.js"></script>
+    <script src="reading.js"></script>
+  </body>
+</html>

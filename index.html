@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Tarot</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/4457f4abf2.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div>
+      <h1>Welcome to your Tarot reading</h1>
+      <div id="buttons">
+        <button><a href="reading.html">Get a full reading</a></button>
+        &nbsp &nbsp &nbsp
+        <a onClick="window.location.reload();"><i class="fas fa-redo"></i></a>
+      </div>
+      <div id="box">
+        <img
+          src="images/default.jpeg"
+          id="cardPic"
+          class="mainCard"
+          alt="Tarot Card"
+        />
+        <button id="mainButton">Pick a card</button>
+      </div>
+    </div>
+    <script src="array.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
