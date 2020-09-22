@@ -23,3 +23,5 @@ Try it out! https://pokeyjess.github.io/Tarot-Reading/
 Images were taken from the Rider-Waite deck, also known as the Waite-Smith deck, arguably the most recognized Tarot rendition. Originally published 1909, the cards were drawn by Pamela Colman Smith with guidance from mystic Arthur Edward Waite.
 
 The cards themselves are no longer under copyright. However, I will credit Tarot expert Holly Voley for making these particular scans available, in the public domain, for downloading at https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck
+
+Icons are from https://fontawesome.com/

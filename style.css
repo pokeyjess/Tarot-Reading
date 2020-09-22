@@ -3,6 +3,7 @@ h1 {
 }
 body {
   background-image: url("images/background.jpeg");
+  width: auto;
 }
 #game {
   display: flex;
@@ -13,13 +14,13 @@ body {
   border: 2px solid black;
 }
 .mainCard {
-  height: 300px;
-  width: 180px;
-  margin: 20px;
+  max-height: 300px;
+  max-width: 180px;
+  margin: 2%;
 }
 .card {
-  height: 200px;
-  width: 120px;
+  max-height: 200px;
+  max-width: 120px;
   border: 2px solid black;
   margin: 10px;
 }
@@ -27,6 +28,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-wrap: wrap-reverse;
 }
 #leftBox {
   display: flex;
@@ -37,7 +39,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 50px;
+  margin: 5%;
 }
 #topBox {
   display: flex;
