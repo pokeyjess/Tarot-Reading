@@ -1,4 +1,3 @@
-
 # Tarot card reading
 
 <img width="1142" alt="Screen Shot 2020-09-21 at 7 22 20 PM" src="https://user-images.githubusercontent.com/65363804/93832344-6d00d180-fc43-11ea-918e-e44cca098afd.png">
@@ -16,6 +15,8 @@ On the main page, the idea is to select one card, which would be the user's Taro
 Since the program is designed for those already familiar with the Tarot, explainations of individual cards is not included. That could always be expanded on in the future.
 
 For now, it is just a simple application designed to generate a random Tarot reading.
+
+Try it out! https://pokeyjess.github.io/Tarot-Reading/
 
 ## Credits
 
