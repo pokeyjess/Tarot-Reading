@@ -14,7 +14,9 @@ On the main page, the idea is to select one card, which would be the user's Taro
 
 Since the program is designed for those already familiar with the Tarot, explainations of individual cards is not included. That could always be expanded on in the future.
 
-For now, it is just a simple application designed to generate a random Tarot reading.
+Plans are in the works to create a more mobile-friendly experience, especially for the full reading page. Stay tuned!
+
+For now, this is just a simple application designed to generate a random Tarot reading.
 
 Try it out! https://pokeyjess.github.io/Tarot-Reading/
 
