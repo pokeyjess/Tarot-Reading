@@ -1,6 +1,9 @@
 h1 {
   text-align: center;
 }
+h5 {
+  text-align: center;
+}
 body {
   background-image: url("images/background.jpeg");
   width: auto;
@@ -49,7 +52,7 @@ body {
 #centerBox {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
 }
 #bottomBox {
   display: flex;
